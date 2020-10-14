@@ -3,4 +3,4 @@ test text
 this is next commit
 commit test
 this is forth test for commit
-this is fifth test for commit using git plugins
+this is fifth test using app
